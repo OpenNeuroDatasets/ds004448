@@ -2,13 +2,15 @@
     "Name": "The BMI-HDEEG dataset 4",
     "Authors": [
         "Seitaro Iwama",
-        "Masumi Morishige",        
+        "Masumi Morishige",
         "Yoshikazu Takahashi",
         "Ryotaro Hirose",
         "Midori Kodama",
-        "Junichi Ushiba"        
+        "Junichi Ushiba"
     ],
     "HowToAcknowledge": "Reference",
     "AlternativeWebsite": "homepage of closed dataset",
-    "BIDSVersion": "1.7.0"
+    "BIDSVersion": "1.7.0",
+    "Funding": [],
+    "License": "CC0"
 }
